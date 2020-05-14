@@ -1,4 +1,13 @@
-# PySDL2
+
+## MacOS Build 20200514
+
+git clone https://github.com/marcusva/py-sdl2
+cd py-sdl2/
+pip install -U pysdl2
+python3 setup.py install
+python3 examples/helloworld.py 
+
+# PySDL2 Original Documentation
 
 [![Build Status](https://travis-ci.org/marcusva/py-sdl2.svg?branch=master)](https://travis-ci.org/marcusva/py-sdl2)
 [![Build Status](https://ci.appveyor.com/api/projects/status/i0k6eou3fj2646ov?svg=true)](https://ci.appveyor.com/project/a-hurst/py-sdl2)
