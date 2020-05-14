@@ -1,11 +1,11 @@
 
 ## MacOS Build 20200514
 
-git clone https://github.com/marcusva/py-sdl2
-cd py-sdl2/
-pip install -U pysdl2
-python3 setup.py install
-python3 examples/helloworld.py 
+    git clone https://github.com/marcusva/py-sdl2
+    cd py-sdl2/
+    pip install -U pysdl2
+    python3 setup.py install
+    python3 examples/helloworld.py 
 
 # PySDL2 Original Documentation
 
